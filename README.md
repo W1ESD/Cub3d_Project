@@ -1,6 +1,6 @@
 # 🎮 Cub3d
 
-**Cub3d** is an inspiring team project that embodies the power of collaboration and collective effort. In this remarkable endeavor, I had the honor to work alongside **Zenajr2**, my esteemed teammate. Together, we embarked on a journey of creativity, combining our skills and expertise to write these lines of code. 💪
+**Cub3d** is an inspiring team project that embodies the power of collaboration and collective effort. In this remarkable endeavor, I had the honor to work alongside **zanejar2**, my esteemed teammate. Together, we embarked on a journey of creativity, combining our skills and expertise to write these lines of code. 💪
 
 ## 🌍 Pushing Boundaries of 3D Visualization
 
